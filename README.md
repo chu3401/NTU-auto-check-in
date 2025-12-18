@@ -1,5 +1,5 @@
 Description
-
+---------------------------------------
 
 This is a simple automatic clock-in program. The motivation for writing this program was simply that the author is very forgetful and kept forgetting to clock in every day. In a moment of frustration, the author wrote this program.
 
@@ -44,3 +44,15 @@ This program is designed for forgetful people, but remember to still be punctual
 
 註：程式中加入了一點隨機變數，讓每次打卡時間都會有些許不同。<br>
 此程式是為了記性不好的人開發的，上班還是要準時喔。
+
+Install
+---------------------------------------
+   ```bat
+   pip install selenium
+   ```
+
+需安裝
+-------------------------------------
+   ```bat
+   pip install selenium
+   ```
